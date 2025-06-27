@@ -2,4 +2,5 @@ mountpoints:
   /: 
     url: https://author-p23407-e64064.adobeaemcloud.com/bin/franklin.delivery/marco-gruppo/securbank-aem-ue/main
     type: markup
-    suffix: ".html?wcmmode=disabled"
+    suffix: "html"
+   # suffix: ".html?wcmmode=disabled"
